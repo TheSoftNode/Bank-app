@@ -1,0 +1,17 @@
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.csproj.AssemblyReference.cache
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.GeneratedMSBuildEditorConfig.editorconfig
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.AssemblyInfoInputs.cache
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.AssemblyInfo.cs
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.csproj.CoreCompileInputs.cache
+E:\sms-alert\Data-service\bin\Debug\net8.0\Data-service.deps.json
+E:\sms-alert\Data-service\bin\Debug\net8.0\Data-service.runtimeconfig.json
+E:\sms-alert\Data-service\bin\Debug\net8.0\Data-service.dll
+E:\sms-alert\Data-service\bin\Debug\net8.0\Data-service.pdb
+E:\sms-alert\Data-service\bin\Debug\net8.0\Entities-Dtos.dll
+E:\sms-alert\Data-service\bin\Debug\net8.0\Entities-Dtos.pdb
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-ser.EC778D36.Up2Date
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.dll
+E:\sms-alert\Data-service\obj\Debug\net8.0\refint\Data-service.dll
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.pdb
+E:\sms-alert\Data-service\obj\Debug\net8.0\Data-service.genruntimeconfig.cache
+E:\sms-alert\Data-service\obj\Debug\net8.0\ref\Data-service.dll

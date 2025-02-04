@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sms-alert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B631FFC2-DD7E-4C37-9F5D-AABC711212F3}|Data-service\\Data-service.csproj|e:\\sms-alert\\data-service\\repository\\batchchargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B631FFC2-DD7E-4C37-9F5D-AABC711212F3}|Data-service\\Data-service.csproj|solutionrelative:data-service\\repository\\batchchargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDCFE47-CF7B-4326-AEE6-324583BD7D7E}|sms-alert\\sms-alert.csproj|e:\\sms-alert\\sms-alert\\controllers\\batchchargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDCFE47-CF7B-4326-AEE6-324583BD7D7E}|sms-alert\\sms-alert.csproj|solutionrelative:sms-alert\\controllers\\batchchargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F4F44-BBE1-4E95-B549-C02F9BEB4417}|Entities-Dtos\\Entities-Dtos.csproj|e:\\sms-alert\\entities-dtos\\dtos\\batchchargedtos\\accountchargedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F4F44-BBE1-4E95-B549-C02F9BEB4417}|Entities-Dtos\\Entities-Dtos.csproj|solutionrelative:entities-dtos\\dtos\\batchchargedtos\\accountchargedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F4F44-BBE1-4E95-B549-C02F9BEB4417}|Entities-Dtos\\Entities-Dtos.csproj|e:\\sms-alert\\entities-dtos\\constants\\accountingconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F4F44-BBE1-4E95-B549-C02F9BEB4417}|Entities-Dtos\\Entities-Dtos.csproj|solutionrelative:entities-dtos\\constants\\accountingconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F4F44-BBE1-4E95-B549-C02F9BEB4417}|Entities-Dtos\\Entities-Dtos.csproj|e:\\sms-alert\\entities-dtos\\types\\dbsetenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F4F44-BBE1-4E95-B549-C02F9BEB4417}|Entities-Dtos\\Entities-Dtos.csproj|solutionrelative:entities-dtos\\types\\dbsetenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B631FFC2-DD7E-4C37-9F5D-AABC711212F3}|Data-service\\Data-service.csproj|e:\\sms-alert\\data-service\\irepository\\ibatchchargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B631FFC2-DD7E-4C37-9F5D-AABC711212F3}|Data-service\\Data-service.csproj|solutionrelative:data-service\\irepository\\ibatchchargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountChargeDetail.cs",
+              "DocumentMoniker": "E:\\sms-alert\\Entities-Dtos\\DTOs\\BatchChargeDTOs\\AccountChargeDetail.cs",
+              "RelativeDocumentMoniker": "Entities-Dtos\\DTOs\\BatchChargeDTOs\\AccountChargeDetail.cs",
+              "ToolTip": "E:\\sms-alert\\Entities-Dtos\\DTOs\\BatchChargeDTOs\\AccountChargeDetail.cs",
+              "RelativeToolTip": "Entities-Dtos\\DTOs\\BatchChargeDTOs\\AccountChargeDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:09:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountingConstants.cs",
+              "DocumentMoniker": "E:\\sms-alert\\Entities-Dtos\\Constants\\AccountingConstants.cs",
+              "RelativeDocumentMoniker": "Entities-Dtos\\Constants\\AccountingConstants.cs",
+              "ToolTip": "E:\\sms-alert\\Entities-Dtos\\Constants\\AccountingConstants.cs",
+              "RelativeToolTip": "Entities-Dtos\\Constants\\AccountingConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:02:54.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBSetEnums.cs",
+              "DocumentMoniker": "E:\\sms-alert\\Entities-Dtos\\Types\\DBSetEnums.cs",
+              "RelativeDocumentMoniker": "Entities-Dtos\\Types\\DBSetEnums.cs",
+              "ToolTip": "E:\\sms-alert\\Entities-Dtos\\Types\\DBSetEnums.cs",
+              "RelativeToolTip": "Entities-Dtos\\Types\\DBSetEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:02:37.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatchChargeController.cs",
+              "DocumentMoniker": "E:\\sms-alert\\sms-alert\\Controllers\\BatchChargeController.cs",
+              "RelativeDocumentMoniker": "sms-alert\\Controllers\\BatchChargeController.cs",
+              "ToolTip": "E:\\sms-alert\\sms-alert\\Controllers\\BatchChargeController.cs",
+              "RelativeToolTip": "sms-alert\\Controllers\\BatchChargeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwOEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:25:25.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatchChargeRepository.cs",
+              "DocumentMoniker": "E:\\sms-alert\\Data-service\\Repository\\BatchChargeRepository.cs",
+              "RelativeDocumentMoniker": "Data-service\\Repository\\BatchChargeRepository.cs",
+              "ToolTip": "E:\\sms-alert\\Data-service\\Repository\\BatchChargeRepository.cs",
+              "RelativeToolTip": "Data-service\\Repository\\BatchChargeRepository.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAqwB8CAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:47:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBatchChargeRepository.cs",
+              "DocumentMoniker": "E:\\sms-alert\\Data-service\\IRepository\\IBatchChargeRepository.cs",
+              "RelativeDocumentMoniker": "Data-service\\IRepository\\IBatchChargeRepository.cs",
+              "ToolTip": "E:\\sms-alert\\Data-service\\IRepository\\IBatchChargeRepository.cs",
+              "RelativeToolTip": "Data-service\\IRepository\\IBatchChargeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:27:32.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

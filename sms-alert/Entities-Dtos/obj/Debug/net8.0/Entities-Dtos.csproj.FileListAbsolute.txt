@@ -1,0 +1,12 @@
+E:\sms-alert\Entities-Dtos\bin\Debug\net8.0\Entities-Dtos.deps.json
+E:\sms-alert\Entities-Dtos\bin\Debug\net8.0\Entities-Dtos.dll
+E:\sms-alert\Entities-Dtos\bin\Debug\net8.0\Entities-Dtos.pdb
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.csproj.AssemblyReference.cache
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.AssemblyInfoInputs.cache
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.AssemblyInfo.cs
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.csproj.CoreCompileInputs.cache
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.dll
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\refint\Entities-Dtos.dll
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\Entities-Dtos.pdb
+E:\sms-alert\Entities-Dtos\obj\Debug\net8.0\ref\Entities-Dtos.dll
